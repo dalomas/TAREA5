@@ -291,7 +291,7 @@ A continuación se puede observar en la imagen como aparece el voltaje de salida
 ![image](https://user-images.githubusercontent.com/116813369/209420070-fbc03306-b785-4671-bdd6-a86e33c157c3.png)
 
 # 4.VIDEO
-https://www.youtube.com/watch?v=QYezIIneqw8
+https://www.youtube.com/watch?v=QYezIInew8
 
 # 5.CONCLUSIONES
 * En conclusión, las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
